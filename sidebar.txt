@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpm:home|Door43 (kpm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpm|d43-kpm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpm/archive/master.zip|d43-kpm.zip]]
+
+**Recent Changes**
+{{changes>ns = kpm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpm|Ethnologue data]]
+
